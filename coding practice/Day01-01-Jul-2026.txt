@@ -1,0 +1,24 @@
+Practised basic linus commands like:
+pwd: to check path
+cd: change directory
+ls: list files
+mkdir: make directory
+rm dir: remove directory and so on
+
+Learned git commands like:
+git remote add origin https://github.com/vishweshpandey/Dec2025_Vishwesh_Pathnex.git
+git status
+git add .
+git commit -m "text"
+git branch -m main
+git push -u origin main
+
+what we actually doing is we are sending our dir and file from
+Laptop
+↓
+
+Git
+
+↓
+
+GitHub
