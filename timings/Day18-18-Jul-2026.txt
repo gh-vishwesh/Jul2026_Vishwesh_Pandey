@@ -1,13 +1,13 @@
-Day 17
+Day 18
 #Today's agenda
 o 0.5 hrs to make intro video 
-o 1.5 hr coding practiced
+o 1 hr coding practiced
 o 2 hr revised previous topics
-o 2.5 hr kubernetes practice
+o 2 hr kubernetes practice
 o watched youtube video of kubernetes and helm of Neeraj bhai
 
 # Tommorrow's agenda
 do coding practice
-Get hands on again with kubernetes
-learn about kubernetes more
+Get hands on Docker
+learn about Helm
 also `revise the topics till taught
