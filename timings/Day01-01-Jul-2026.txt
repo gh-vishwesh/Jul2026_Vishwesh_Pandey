@@ -1,0 +1,5 @@
+What I did yesterday!
+Went through the syllabus 
+learn about linux commands and git
+how to push files from laptop to git and git to github
+Did HW: Types of IP address and webUrl
